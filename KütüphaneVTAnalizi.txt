@@ -1,36 +1,33 @@
 Mağaza Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
--Hayata geçirilecek olan veri tabanı, kıyafet mağazalarının ürününü bisiklet üzerine kitapların yer aldığı bir dernek kütüphanesinin katalog veri tabanıdır.
+-Hayata geçirilecek olan veri tabanı, kıyafet mağazalarının ürünü hakkında detaylı bilgileri kapsayacak ve stok bilgisine göre hangi mağazada olduğunu gösterecek.
 
 2) Veri tabanı hangi ihtiyaçları karşılayacak?
 - Kıyafetlerin stok bilgileri sorgulanabilecektir. 
+- Aynı kıyafeti bünyesinde bulunduruan mağazalar kayıt edilecek.
 - Sorgulanmak istenilen kıyafetin hangi mağazada olduğu görüntülenebilecektir.
-- Yazarlar bilgileri ve detaylı bağlantıları sorgulanabilecektir.
-- Kütüphanede o kitaptan kaç kopya olduğu sorgulanabilecektir.
+- O mağazadaki kıyafet türleri ve marka çeşitleri sorgulanabilecektir
+- Detaylı bilgileri kapsayacak.
 
 3) Veri tabanında hangi veriler depolanacak?
-- Kitap bilgileri
-- Yazar bilgileri
-- Yayınevi bilgileri
+- Kıyafet bilgileri
+- Mağaza bilgileri
 
 4) Veri tabanında ne tür veriler depolanacak?
-- Kitap verileri
-- - ISBN
-- - Eser Adı
-- - Yazar Adı
-- - Basım Yılı
-- - Yayınevi
-- - Dil
-- - Kopya Sayısı
+- Kıyafet verileri
+- - Stok bilgisi
+- - Barkod numarası
+- - Kıyafet türü
+- - Fiyatı
+- - Hangi mağazada olduğu
+- - Kaç adet olduğu
 
-- Yazar verileri
-- - Yazar No (Otomatik artan)
-- - Yazar Adı
-- - Yazar Soyadı
-- - Yazar URL
+- Mağaza verileri
+- - Mağaza No (Otomatik artan)
+- - Mağaza Adı
+- - Mağaza Ayrıntılı Bilgisi
+- - Mağaza Konumu
+- - Mağaza URL
 
-- Yayınevi verileri
-- - Yayınevi No
-- - Yayınevi Adı
-- - Yayınevi URL
+
