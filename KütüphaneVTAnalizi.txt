@@ -13,6 +13,7 @@ Mağaza Veri Tabanı Analizi
 3) Veri tabanında hangi veriler depolanacak?
 - Kıyafet bilgileri
 - Mağaza bilgileri
+- Hangi şehirden temin edildiği bilgisi
 
 4) Veri tabanında ne tür veriler depolanacak?
 - Kıyafet verileri
@@ -29,5 +30,9 @@ Mağaza Veri Tabanı Analizi
 - - Mağaza Ayrıntılı Bilgisi
 - - Mağaza Konumu
 - - Mağaza URL
+
+- Temin edildiği şehir verileri
+- - Şehir Adı
+- - Ne zaman temin edildiği
 
 
