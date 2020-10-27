@@ -1,4 +1,4 @@
-Makale Veri Tabanı Analizi
+Oyuncak Müzesi Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
 -Hayata geçirilecek olan veri tabanı, müzedeki oyuncaklara ait bilgileri kapsayacak.
