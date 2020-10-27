@@ -1,38 +1,34 @@
 Mağaza Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
--Hayata geçirilecek olan veri tabanı, kıyafet mağazalarının ürünü hakkında detaylı bilgileri kapsayacak ve stok bilgisine göre hangi mağazada olduğunu gösterecek.
+-Hayata geçirilecek olan veri tabanı, yazılan makale hakkında detaylı bilgileri kapsayacak.
 
 2) Veri tabanı hangi ihtiyaçları karşılayacak?
-- Kıyafetlerin stok bilgileri sorgulanabilecektir. 
-- Aynı kıyafeti bünyesinde bulunduruan mağazalar kayıt edilecek.
-- Sorgulanmak istenilen kıyafetin hangi mağazada olduğu görüntülenebilecektir.
-- O mağazadaki kıyafet türleri ve marka çeşitleri sorgulanabilecektir
-- Detaylı bilgileri kapsayacak.
-
+- Makale kayıt edilecek.
+- Atıf bilgisine yer verilecek.
+- Yazar, tarih bilgisi olacak
+- 
+- 
 3) Veri tabanında hangi veriler depolanacak?
-- Kıyafet bilgileri
-- Mağaza bilgileri
-- Hangi şehirden temin edildiği bilgisi
+- Yazar bilgileri
+- Makale bilgileri
 
 4) Veri tabanında ne tür veriler depolanacak?
-- Kıyafet verileri
-- - Stok bilgisi
-- - Barkod numarası
-- - Kıyafet türü
-- - Fiyatı
-- - Hangi mağazada olduğu
-- - Kaç adet olduğu
+- Makale Bilgisi
+- - Tarihi
+- - Konusu
+- - Görüntülenme Sayısı
+- - Makale Başlığı
+- - Özet
+- - Atıf Sayısı
 
-- Mağaza verileri
-- - Mağaza No (Otomatik artan)
-- - Mağaza Adı
-- - Mağaza Ayrıntılı Bilgisi
-- - Mağaza Konumu
-- - Mağaza URL
+- Yazar Bilgisi
+- - Yazar adı-soyadı
+- - Yazar Hakkında Bilgi
+- - Diğer Yazıları
 
-- Temin edildiği şehir verileri
-- - Şehir Adı
-- - Ne zaman temin edildiği
+- Aynı Makalenin Başka Hangi Veritabanında Olduğu
+- - Veri Tabanının Adı
+- - Ne zaman yüklendiği
 
 
