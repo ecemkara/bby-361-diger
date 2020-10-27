@@ -1,4 +1,4 @@
-Mağaza Veri Tabanı Analizi
+Makale Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
 -Hayata geçirilecek olan veri tabanı, yazılan makale hakkında detaylı bilgileri kapsayacak.
