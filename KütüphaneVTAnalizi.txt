@@ -1,34 +1,37 @@
 Makale Veri Tabanı Analizi
 
 1) Hayata geçirilecek sistem neye hizmet edecek?
--Hayata geçirilecek olan veri tabanı, yazılan makale hakkında detaylı bilgileri kapsayacak.
+-Hayata geçirilecek olan veri tabanı, müzedeki oyuncaklara ait bilgileri kapsayacak.
 
 2) Veri tabanı hangi ihtiyaçları karşılayacak?
-- Makale kayıt edilecek.
-- Atıf bilgisine yer verilecek.
-- Yazar, tarih bilgisi olacak
+- Oyuncaklara ait bilgiler girilecek
+- Müze bilgileri girilecek.
+- Zanaatkar hakkında bilgiler girilecek
 - 
 - 
 3) Veri tabanında hangi veriler depolanacak?
-- Yazar bilgileri
-- Makale bilgileri
+- Oyuncak bilgileri
+- Müze bilgileri
+- Zanaatkar bilgileri
 
 4) Veri tabanında ne tür veriler depolanacak?
-- Makale Bilgisi
-- - Tarihi
-- - Konusu
-- - Görüntülenme Sayısı
-- - Makale Başlığı
-- - Özet
-- - Atıf Sayısı
+- Oyuncak Bilgisi
+- - Oyuncak Kayıt No
+- - Oyuncak Kayıt Tarihi
+- - Oyuncak Adı
+- - Oyuncağın Yapıldığı Tarih
+- - Oyuncağın Fiziksel Özellikleri
+- - Oyuncağın Türü
+- - Oyuncak Adedi
 
-- Yazar Bilgisi
-- - Yazar adı-soyadı
-- - Yazar Hakkında Bilgi
-- - Diğer Yazıları
+- Zanaatkar Bilgisi
+- - Zanaatkar No
+- - Zanaatkar Adı
+- - Zanaatkar Soyadı
 
-- Aynı Makalenin Başka Hangi Veritabanında Olduğu
-- - Veri Tabanının Adı
-- - Ne zaman yüklendiği
-
+- AMüze Bilgisi
+- - Müze No
+- - Müze Adı
+- - Müze Web Sitesi
+- - Müze Adresi
 
